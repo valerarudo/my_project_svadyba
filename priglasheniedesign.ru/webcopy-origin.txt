@@ -1,0 +1,272 @@
+Uri: https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js
+File Name: D:\Sites\priglasheniedesign.ru\npm\tsparticles-confetti@2.12.0\tsparticles.confetti.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://dl.dropboxusercontent.com/scl/fi/58bxz3c1w64hyuac98kwh/Ed_Sheeran_-_Perfect_47828368.mp3?rlkey=j853hkntrnip50ced9f4s25h6&dl=0
+File Name: D:\Sites\priglasheniedesign.ru\scl\fi\58bxz3c1w64hyuac98kwh\Ed_Sheeran_-_Perfect_47828368.mp3
+Content Type: audio/mpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500;600;700&family=Montserrat:wght@300;400;600;700
+File Name: D:\Sites\priglasheniedesign.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: D:\Sites\priglasheniedesign.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTQ7Q.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTQ7Q.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9TQ7Q.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9TQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9UQ7Q.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9UQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUQ7Q.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUQ7Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: D:\Sites\priglasheniedesign.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://priglasheniedesign.ru/35
+File Name: D:\Sites\priglasheniedesign.ru\35.html
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/
+File Name: D:\Sites\priglasheniedesign.ru\index.htm
+Content Type: 
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: D:\Sites\priglasheniedesign.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: D:\Sites\priglasheniedesign.ru\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: D:\Sites\priglasheniedesign.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: D:\Sites\priglasheniedesign.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: D:\Sites\priglasheniedesign.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3061-3266-4438-a434-663234353934/2.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3061-3266-4438-a434-663234353934\2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3061-6137-4031-a138-343266653764/Vector.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3061-6137-4031-a138-343266653764\Vector.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3064-3534-4265-a132-666432633031/5.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3064-3534-4265-a132-666432633031\5.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3165-3866-4334-a438-396134613037/bookantiqua.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3165-3866-4334-a438-396134613037\bookantiqua.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3239-6262-4433-a665-333561386638/IMG_1269_1.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3239-6262-4433-a665-333561386638\IMG_1269_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3333-6131-4961-b030-646238623566/Group_177.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3333-6131-4961-b030-646238623566\Group_177.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3336-6663-4263-b666-653332333336/Garamond-Garamond-Re.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3336-6663-4263-b666-653332333336\Garamond-Garamond-Re.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/tild3337-3565-4432-b335-383136613638/4.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3337-3565-4432-b335-383136613638\4.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3338-3432-4036-b730-386231346637/Vector.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3338-3432-4036-b730-386231346637\Vector.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3539-3334-4366-a464-616137616664/photo_2025-05-04_11-.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3539-3334-4366-a464-616137616664\photo_2025-05-04_11-.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3636-3434-4536-b065-383639653063/ofontru_Miama-Nueva.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3636-3434-4536-b065-383639653063\ofontru_Miama-Nueva.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3638-6238-4633-b731-366239316633/Group_1217.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3638-6238-4633-b731-366239316633\Group_1217.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3639-3334-4939-a266-643932663564/ofontru_Montserrat.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3639-3334-4939-a266-643932663564\ofontru_Montserrat.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3639-3564-4830-b533-663864326335/Classica-Two.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3639-3564-4830-b533-663864326335\Classica-Two.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3735-3835-4332-a434-393037313834/Montserrat-Thin_1.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3735-3835-4332-a434-393037313834\Montserrat-Thin_1.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3736-6366-4237-b638-376435373462/Vector.svg
+File Name: D:\Sites\priglasheniedesign.ru\tild3736-6366-4237-b638-376435373462\Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3738-3533-4137-b239-376237623731/2.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3738-3533-4137-b239-376237623731\2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3830-3136-4333-b830-613331396639/Group_176.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3830-3136-4333-b830-613331396639\Group_176.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3864-3665-4838-a565-366138633630/photo_2025-05-04_11-.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3864-3665-4838-a565-366138633630\photo_2025-05-04_11-.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3866-3533-4335-b036-363533343833/Group_1216.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3866-3533-4335-b036-363533343833\Group_1216.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3866-6464-4537-b930-333861373335/Montserrat-Light.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild3866-6464-4537-b930-333861373335\Montserrat-Light.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3933-6338-4866-b039-633834656532/noroot.png
+File Name: D:\Sites\priglasheniedesign.ru\tild3933-6338-4866-b039-633834656532\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6135-3231-4665-b365-393532346530/b8ba02d0a5286f5eaf20.jpg
+File Name: D:\Sites\priglasheniedesign.ru\tild6135-3231-4665-b365-393532346530\b8ba02d0a5286f5eaf20.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6137-6433-4432-b262-643136313164/11.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6137-6433-4432-b262-643136313164\11.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6138-3362-4661-a634-636535613465/photo_2023-11-26_23-.jpg
+File Name: D:\Sites\priglasheniedesign.ru\tild6138-3362-4661-a634-636535613465\photo_2023-11-26_23-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6139-6630-4632-b430-663931633261/Group_175.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6139-6630-4632-b430-663931633261\Group_175.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6230-6464-4665-b432-373132396231/Group_1316.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6230-6464-4665-b432-373132396231\Group_1316.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6234-3234-4865-a532-653636333930/NotoSansGeorgian_Con.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild6234-3234-4865-a532-653636333930\NotoSansGeorgian_Con.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6238-6136-4333-b430-363166346438/Czizh-Feather_1.woff
+File Name: D:\Sites\priglasheniedesign.ru\tild6238-6136-4333-b430-363166346438\Czizh-Feather_1.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6365-3834-4735-a136-303038643462/photo_2023-11-26_23-.svg
+File Name: D:\Sites\priglasheniedesign.ru\tild6365-3834-4735-a136-303038643462\photo_2023-11-26_23-.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6438-6535-4363-a666-663230383035/12.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6438-6535-4363-a666-663230383035\12.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6630-6465-4334-b230-333463326433/Group_1223.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6630-6465-4334-b230-333463326433\Group_1223.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6632-3930-4239-b434-616639393834/photo_2023-11-26_23-.jpg
+File Name: D:\Sites\priglasheniedesign.ru\tild6632-3930-4239-b434-616639393834\photo_2023-11-26_23-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6636-6663-4738-b537-616239653164/Group_1301.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6636-6663-4738-b537-616239653164\Group_1301.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6661-3831-4861-a264-663737316132/Group_178.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6661-3831-4861-a264-663737316132\Group_178.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6662-3535-4137-a432-376465323731/1.png
+File Name: D:\Sites\priglasheniedesign.ru\tild6662-3535-4137-a432-376465323731\1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/ws/project3928223/tilda-blocks-page73425461.min.css?t=1754722865
+File Name: D:\Sites\priglasheniedesign.ru\ws\project3928223\tilda-blocks-page73425461.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project3928223/tilda-blocks-page73425461.min.js?t=1754722865
+File Name: D:\Sites\priglasheniedesign.ru\ws\project3928223\tilda-blocks-page73425461.min.js
+Content Type: application/javascript
+
